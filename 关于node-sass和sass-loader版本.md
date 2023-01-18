@@ -1,0 +1,5 @@
+```markdown
+"node-sass": "^4.14.1",
+"sass-loader": "^7.2.0",
+```
+
